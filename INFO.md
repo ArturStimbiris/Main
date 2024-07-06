@@ -1,3 +1,1 @@
-git is awesome!
-new line
-experiment wich amend
+test text
